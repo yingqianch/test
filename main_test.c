@@ -1,5 +1,5 @@
 #include<studio.h>
-int mian(){
+int main(){
   printf("Hello,GitHub！\n");
   return 0;
 }
